@@ -83,10 +83,9 @@ Note: The dataset is already downloaded and unzipped in the notebook. So, you ca
 
 ## **Contact**
 For any questions or suggestions, feel free to contact me via:
-
-GitHub: sowmya1730
-Email: saisowmya.bandaluppi@gwu.edu
-GitHub Repo: https://github.com/sowmya1730/Contextual-Analysis-of-Product-Reviews-using-Text-Mining-and-Clustering
+- GitHub: sowmya1730
+- Email: saisowmya.bandaluppi@gwu.edu
+- GitHub Repo: https://github.com/sowmya1730/Contextual-Analysis-of-Product-Reviews-using-Text-Mining-and-Clustering
 
 ## **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
