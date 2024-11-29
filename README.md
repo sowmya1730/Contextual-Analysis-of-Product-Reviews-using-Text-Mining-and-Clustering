@@ -56,6 +56,7 @@ Note: The dataset is already downloaded and unzipped in the notebook. So, you ca
    - Load the dataset.
    - Clean and preprocess the review text data.
    - Perform sentiment analysis using both transformer-based models and TextBlob.
+   - Apply Word Frequency Analysis
    - Apply topic modeling techniques (NMF and LDA).
    - Apply KMeans clustering to group similar reviews.
    - Visualize the results (sentiment distribution, word frequencies, clustering).
