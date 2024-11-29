@@ -15,6 +15,7 @@ This project aims to analyze Amazon product reviews using various text mining te
 ## **Software Requirements**
 
 - Python 3.x
+- Google Colab or Jupyter Notebook
 - Libraries:
   - `pandas`
   - `nltk`
