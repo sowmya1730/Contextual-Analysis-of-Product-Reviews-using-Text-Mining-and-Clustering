@@ -23,8 +23,6 @@ This project aims to analyze Amazon product reviews using various text mining te
   - `matplotlib`
   - `transformers`
   - `textblob`
-  
-To ensure the proper setup of dependencies, use a virtual environment.
 
 ## **Installation**
 
